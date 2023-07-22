@@ -48,7 +48,7 @@ $ npm run dev
 
 🔑 Para realizar o teste pelo Admin utilize a conta a seguir: </br>
 
-e-mail: adm@adm.com </br>
+e-mail: admin@foodexplorer.com </br>
 senha: 123456
 
 ---
