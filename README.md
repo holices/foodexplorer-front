@@ -2,7 +2,7 @@
   <h1 align="center"><a href="https://food-explorer-vasc-333.netlify.app/">🍴 Food Explorer - Rocketseat 🍴</a></h1>
 </p>
 
-![Imagem do WhatsApp de 2023-06-15 à(s) 01 11 24](https://github.com/holices/foodexplorer-front/assets/65794544/d1edf45e-230c-469f-bf2d-b0e43b7bb895)
+![Imagem do projeto](./src/assets/project-front.jpg)
 
 ## 📝 Sobre
 
@@ -57,4 +57,5 @@ O Front-end foi hospedado diretamente no Netlify. É importante ressaltar que pa
 é necessário que o servidor de backend esteja respondendo e funcionando corretamente.
 
 ⚠ OBS: Devido à hospedagem em um serviço gratuito, o back-end entra em um estado de hibernação após 15 minutos sem uso. Portanto, é possível que haja um atraso de até 1 minuto, dependendo da carga nos servidores do Render.
+
 # foodexplorer-front
